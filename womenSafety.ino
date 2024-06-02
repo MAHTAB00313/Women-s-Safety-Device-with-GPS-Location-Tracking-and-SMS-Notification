@@ -14,7 +14,7 @@ const int buzzer = 12;
 bool check = true;
 
 // Phone number to send the SMS to
-char phoneNumber[] = "+918860805572";
+char phoneNumber[] = "+91xxxxxxxxxxx"; // ADD THE RECEIVER NUMBER FOR MESSAGE.
 
 // Create a TinyGPSPlus object
 TinyGPSPlus gps;
